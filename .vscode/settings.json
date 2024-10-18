@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "ostream": "cpp",
+        "list": "cpp",
+        "source_location": "cpp",
+        "istream": "cpp"
+    },
+    "cSpell.words": [
+        "submatrix"
+    ]
+}
