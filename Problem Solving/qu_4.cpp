@@ -10,8 +10,8 @@ int isPalindrome(string num)
         {
             return false;
         }
-        return true;
     }
+    return true;
     
 }
 int main()
