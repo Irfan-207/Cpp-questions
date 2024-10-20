@@ -1,0 +1,2 @@
+# This is a file where I'd like to store some information about creating temporary file
+    Temporary file in C++ can be created using the tmpfile() method defined in the <cstdio> header file. The temporary file created has a unique auto-generated filename. The file created is opened in binary mode and has access mode “wb+”. These temporary files are automatically deleted when the program is terminated or when they are closed in the program using fclose().
